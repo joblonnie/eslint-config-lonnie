@@ -1,6 +1,6 @@
 {
   "name": "@joblonnie/eslint-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "description": "ESLint config by Lonnie",
   "main": "index.js",
