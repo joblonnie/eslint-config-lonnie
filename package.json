@@ -19,6 +19,12 @@
     "typescript": "^5.9.2",
     "typescript-eslint": "^8.44.0"
   },
+  "scripts": {
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   }
