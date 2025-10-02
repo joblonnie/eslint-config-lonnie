@@ -23,9 +23,16 @@ export default defineConfig([
       // 🔧 simple-import-sort
       "simple-import-sort/imports": "error",
       "simple-import-sort/exports": "error",
+      "react/react-in-jsx-scope": "off", // React 17+ 새로운 JSX transform
+      "react/jsx-uses-react": "off", // React import 불필요
     },
     extends: ["js/recommended"],
     languageOptions: { globals: globals.browser },
+    settings: {
+      react: {
+        version: "detect", // package.json에서 React 버전 자동 감지
+      },
+    },
   },
   tseslint.configs.recommended,
   pluginReact.configs.flat.recommended,
