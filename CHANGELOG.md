@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/joblonnie/eslint-config-lonnie/compare/v1.2.0...v1.2.1) (2025-10-02)
+
+
+### 문서
+
+* :bookmark: v1.2.0 md 파일 추가 ([af69ec0](https://github.com/joblonnie/eslint-config-lonnie/commit/af69ec007065efa37abf1d70783817adeb6e23a9))
+
 ## [1.2.0](https://github.com/joblonnie/eslint-config-lonnie/compare/v1.1.0...v1.2.0) (2025-10-02)
 
 
